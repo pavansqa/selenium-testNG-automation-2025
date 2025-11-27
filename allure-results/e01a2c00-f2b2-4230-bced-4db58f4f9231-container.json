@@ -1,0 +1,1 @@
+{"uuid":"e01a2c00-f2b2-4230-bced-4db58f4f9231","name":"AutomationSuite","children":["f81a620a-247b-4e0a-9a67-d648c5cc2752"],"befores":[{"name":"cleanAllureDirectories","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764050826128,"stop":1764050826148}],"afters":[],"start":1764050826088,"stop":1764050847478}
