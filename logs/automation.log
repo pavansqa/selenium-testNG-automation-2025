@@ -418,3 +418,17 @@
 2025-11-25 11:37:25 INFO  - Starting After Method
 2025-11-25 11:37:25 INFO  - After Method Executed
 2025-11-25 11:37:27 INFO  - After Class Executed
+2025-11-27 17:33:42 INFO  - Starting Before suite
+2025-11-27 17:33:42 INFO  - Before Method Executed
+2025-11-27 17:33:42 INFO  - Starting Before Method
+2025-11-27 17:33:50 INFO  - Before Method Executed
+2025-11-27 17:33:59 INFO  - Starting After Method
+2025-11-27 17:33:59 INFO  - After Method Executed
+2025-11-27 17:34:00 INFO  - After Class Executed
+2025-11-27 17:38:26 INFO  - Starting Before suite
+2025-11-27 17:38:26 INFO  - Before Method Executed
+2025-11-27 17:38:26 INFO  - Starting Before Method
+2025-11-27 17:38:32 INFO  - Before Method Executed
+2025-11-27 17:38:42 INFO  - Starting After Method
+2025-11-27 17:38:42 INFO  - After Method Executed
+2025-11-27 17:38:43 INFO  - After Class Executed
