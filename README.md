@@ -27,7 +27,7 @@ This is a Maven-based Selenium TestNG automation framework for the Luma eCommerc
 - │ └── utils/WaitUtils
 - │
 - ├── src/main/resources
-- │ ├── config.properties
+- │ ├── stage.properties
 - │ ├── log4j2.xml
 - │ ├── qa.properties
 - │ └── TestData.xlsx
